@@ -1,3 +1,6 @@
+import sys
+sys.path.append("/home/god/foo/icasp/React-Redux-Flask")
+
 from index import db, bcrypt
 
 
